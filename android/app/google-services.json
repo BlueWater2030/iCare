@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "940342337375",
+    "project_id": "afro-asain",
+    "storage_bucket": "afro-asain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940342337375:android:7c3dbd10c9358d9f4f60ea",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE9uWtzwv0J2XCyykTRx1CeEXQSrVaivc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940342337375:android:bc6638f7bf7cc43f4f60ea",
+        "android_client_info": {
+          "package_name": "com.example.icare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE9uWtzwv0J2XCyykTRx1CeEXQSrVaivc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
